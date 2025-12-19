@@ -5,6 +5,7 @@
 #include <limits.h>
 #include <float.h>
 #include <locale.h>
+//лабораторная скв 8//
 void main(void)
 {
 	setlocale(LC_ALL, "Rus");
