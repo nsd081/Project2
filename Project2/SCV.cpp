@@ -5,8 +5,8 @@
 #include <limits.h>
 #include <float.h>
 #include <locale.h>
-//лабораторная скв 8//
-void main(void)
+//создание новой ветки + main->mainn//
+void mainn(void)
 {
 	setlocale(LC_ALL, "Rus");
 	double x, f1, f2, f3;
